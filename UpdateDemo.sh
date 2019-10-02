@@ -81,8 +81,8 @@ function Check_Version() {
 				clear
 				echo -e "$W [$G""+$W] Update finished.\n Restart..."
 				sleep 3
-				cd $PROGNAME
-				bash ./$PROGNAME.sh
+#				cd $PROGNAME
+#				bash ./$PROGNAME.sh
 				exit
 			fi
 		fi
