@@ -1,6 +1,6 @@
 # UpdateDemo
 
-Module Demo update for program.
+Demo module update for program.
 
 + Type: Demo
 + Dev: Shell
